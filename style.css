@@ -54,3 +54,14 @@ nav a{
     border: 3px solid blue;
     padding: 5px;
 }
+.super{
+    color: blue;
+}
+.speak{
+    text-decoration: none;
+    border: 3px solid blue;
+    padding: 5px;
+}
+html{
+    margin: 15px;
+}
